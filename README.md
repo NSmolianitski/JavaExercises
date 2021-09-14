@@ -13,7 +13,8 @@ Developer mode:
 
 ## Threads downloader
 Another console application which downloads files using threads. You can set the number of threads using ```--threadsCount=<num>``` argument.
-You can add more urls to files_urls.txt, but be careful! 
+You can add more urls to files_urls.txt, but be careful!
+
 There aren't any file validation, you must use this format: ```<url-number> <url>```
 
 <img src="/screenshots/threads-downloader.png" width="400">

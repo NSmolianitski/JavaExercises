@@ -1,6 +1,6 @@
 # JavaExercises
 
-## 1 Transactions menu
+## 1. Transactions menu
 A simple console application which simulates transactions from one user to another.
 
 Simple mode:
@@ -11,7 +11,7 @@ Developer mode:
 
 <img src="/screenshots/transactions-menu-dev.png" width="400">
 
-## 2 Threads downloader
+## 2. Threads downloader
 Another console application which downloads files using threads. 
 
 You can set the number of threads using ```--threadsCount=<num>``` argument.

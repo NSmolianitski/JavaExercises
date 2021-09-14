@@ -3,8 +3,10 @@
 ## Transactions menu
 A simple console application which simulates transactions from one user to another.
 
-Simple mode
-<img src="/screenshots/transactions-menu.png" width="200">
+Simple mode:
+
+<img src="/screenshots/transactions-menu.png" width="400">
 
 Developer mode:
-![Simple mode:](/screenshots/transactions-menu-dev.png)
+
+<img src="/screenshots/transactions-menu-dev.png" width="400">

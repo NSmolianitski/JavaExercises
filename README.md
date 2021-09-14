@@ -14,4 +14,4 @@ Developer mode:
 ## Threads downloader
 Another console application which downloads files using threads. You can set the number of threads using ```--threadsCount=<num>``` argument.
 
-<img src="/screenshots/threds-downloader.png" width="400">
+<img src="/screenshots/threads-downloader.png" width="400">
